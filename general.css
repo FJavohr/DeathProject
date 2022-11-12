@@ -1,0 +1,47 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Epilogue', sans-serif;
+}
+.main-header {
+padding-top: 25px;
+margin-bottom: 118px;
+height: 50px;
+}
+.Main-menu a{
+text-decoration: none;
+font-weight: 700; 
+}
+.Menu {
+list-style-type: none;
+display: flex;
+align-items: center;
+}
+
+.Main-menu{
+display: flex; 
+gap: 47px;
+justify-content: end;
+align-items: center;
+}
+.grey-logo{
+  cursor: pointer;
+}
+.header-line{
+display: flex;
+justify-content: space-between;
+}
+.grey-logo{
+  height: 53px;
+width: 199px;
+display: flex ;
+align-items: center;
+}
+.first-section-main{
+  height: 680px;
+}
+.flex-for{
+  position: absolute;
+  top: 840px;
+}
